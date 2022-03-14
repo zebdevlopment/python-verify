@@ -1,3 +1,4 @@
+# Bot make bởi Zeb Development 
 import discord, os, keep_alive, base64, time, asyncio, datetime, pytz
 
 client = discord.Client()
